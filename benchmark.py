@@ -1,7 +1,7 @@
 import time
 import numpy as np
 import pandas as pd
-from naivebayes import (   # <-- replace with your actual filename
+from NaiveBayes import (   # <-- replace with your actual filename
     BernoulliNaiveBayesFromScratch,
     GaussianNaiveBayesFromScratch,
     MultinomialNaiveBayesFromScratch
